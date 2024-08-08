@@ -1,0 +1,20 @@
+﻿UITier
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\
+UITier
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\App.xaml
+30-658735805
+
+72-1899116987
+2131811887467
+Converters\Converters.xaml;MainWindow.xaml;Styles.xaml;Views\ApproveOccurrencesView.xaml;Views\ErrorPageView.xaml;Views\EventAddView.xaml;Views\EventEditView.xaml;Views\EventListView.xaml;Views\GetIdMessageBoxView.xaml;Views\HallAddView.xaml;Views\HallEditView.xaml;Views\HallListView.xaml;Views\HomePageView.xaml;Views\MainPanelView.xaml;Views\NavigationMenu.xaml;Views\ObjectsListHeaderView.xaml;Views\OccurrenceAddView.xaml;Views\OccurrenceEditView.xaml;Views\OccurrenceListView.xaml;Views\OrderAddView.xaml;Views\OrderEditView.xaml;Views\OrderListView.xaml;Views\PrintedObjectListView.xaml;Views\RevenuesReportView.xaml;Views\SetEventDemandView.xaml;Views\TopPanelView.xaml;Views\UserAddView.xaml;Views\UserDetailsView.xaml;Views\UserEditView.xaml;Views\UserListView.xaml;
+
+False
+

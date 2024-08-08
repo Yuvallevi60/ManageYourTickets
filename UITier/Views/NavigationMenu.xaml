@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="UITier.Views.NavigationMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UITier.Views"
+             mc:Ignorable="d">
+    
+    <Border Style="{StaticResource WindowsBorder}">
+        <ScrollViewer VerticalScrollBarVisibility="Hidden" BorderThickness="15">
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                <Button Content="Home" Margin="12,5,12,3" Style="{StaticResource NavigationButton}" CommandParameter="Home"/>
+
+                <Button Content="User Details" Margin="12,5,12,3" Style="{StaticResource NavigationButton}" CommandParameter="User Details"/>
+
+                <Button Content="Revenues" Margin="12,5,12,3" Style="{StaticResource NavigationButton}" CommandParameter="Revenues" 
+                            Visibility="{Binding TheCurrentUser.User.Permissions[Revenues], Converter={StaticResource BooleanToVisibilityConverter}}" />
+
+                <Expander Header="Users" IsExpanded="{Binding OpenExpanders[0]}" Style="{StaticResource NavigationExpander}"
+                       Visibility="{Binding TheCurrentUser.User.Permissions[Users], Converter={StaticResource BooleanToVisibilityConverter}}" >
+                    <StackPanel>
+                        <Button Content="Add" Style="{StaticResource NavigationButton}" CommandParameter="User Add" />
+                        <Button Content="List" Style="{StaticResource NavigationButton}" CommandParameter="User List" />
+                        <Button Content="Edit" Style="{StaticResource NavigationButton}" CommandParameter="User Edit" />
+                    </StackPanel>
+                </Expander>
+
+                <Expander Header="Halls" IsExpanded="{Binding OpenExpanders[1]}" Style="{StaticResource NavigationExpander}"
+                      Visibility="{Binding TheCurrentUser.User.Permissions[Halls], Converter={StaticResource BooleanToVisibilityConverter}}" >
+                    <StackPanel>
+                        <Button Content="Add" Style="{StaticResource NavigationButton}" CommandParameter="Hall Add" />
+                        <Button Content="List" Style="{StaticResource NavigationButton}" CommandParameter="Hall List" />
+                        <Button Content="Edit" Style="{StaticResource NavigationButton}" CommandParameter="Hall Edit" />
+                        <Button Content="Set Approval" Style="{StaticResource NavigationButton}" Command="{Binding OpenWindowCommand}" CommandParameter="Hall Approval"/>
+                    </StackPanel>
+                </Expander>
+
+                <Expander Header="Events" IsExpanded="{Binding OpenExpanders[2]}" Style="{StaticResource NavigationExpander}"
+                      Visibility="{Binding TheCurrentUser.User.Permissions[Events], Converter={StaticResource BooleanToVisibilityConverter}}" >
+                    <StackPanel>
+                        <Button Content="Add" Style="{StaticResource NavigationButton}" CommandParameter="Event Add" />
+                        <Button Content="List" Style="{StaticResource NavigationButton}" CommandParameter="Event List"/>
+                        <Button Content="Edit" Style="{StaticResource NavigationButton}" CommandParameter="Event Edit"/>
+                        <Button Content="Set Demand" Style="{StaticResource NavigationButton}" Command="{Binding OpenWindowCommand}"  CommandParameter="Event Demand"/>
+                    </StackPanel>
+                </Expander>
+
+                <Expander Header="Occurrences" IsExpanded="{Binding OpenExpanders[3]}" Style="{StaticResource NavigationExpander}"
+                      Visibility="{Binding TheCurrentUser.User.Permissions[Occurrences], Converter={StaticResource BooleanToVisibilityConverter}}" >
+                    <StackPanel>
+                        <Button Content="Add" Style="{StaticResource NavigationButton}" CommandParameter="Occurrence Add" />
+                        <Button Content="List" Style="{StaticResource NavigationButton}" CommandParameter="Occurrence List"/>
+                        <Button Content="Edit" Style="{StaticResource NavigationButton}" CommandParameter="Occurrence Edit"/>
+                    </StackPanel>
+                </Expander>
+
+                <Expander Header="Orders" IsExpanded="{Binding OpenExpanders[4]}" Style="{StaticResource NavigationExpander}"
+                      Visibility="{Binding TheCurrentUser.User.Permissions[Orders], Converter={StaticResource BooleanToVisibilityConverter}}" >
+                    <StackPanel>
+                        <Button Content="Add" Style="{StaticResource NavigationButton}" CommandParameter="Order Add" />
+                        <Button Content="List" Style="{StaticResource NavigationButton}" CommandParameter="Order List"/>
+                        <Button Content="Edit" Style="{StaticResource NavigationButton}" CommandParameter="Order Edit"/>
+                    </StackPanel>
+                </Expander>
+
+            </StackPanel>
+        </ScrollViewer>
+    </Border>
+
+</UserControl>

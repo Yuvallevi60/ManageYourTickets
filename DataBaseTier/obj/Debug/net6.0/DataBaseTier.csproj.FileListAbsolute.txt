@@ -1,0 +1,24 @@
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\bin\Debug\net6.0\DataBaseTier.deps.json
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\bin\Debug\net6.0\DataBaseTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\bin\Debug\net6.0\DataBaseTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.csproj.AssemblyReference.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.AssemblyInfoInputs.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.AssemblyInfo.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\refint\DataBaseTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\DataBaseTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\DataBaseTier\obj\Debug\net6.0\ref\DataBaseTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\bin\Debug\net6.0\DataBaseTier.deps.json
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\bin\Debug\net6.0\DataBaseTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\bin\Debug\net6.0\DataBaseTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.csproj.AssemblyReference.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.AssemblyInfoInputs.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.AssemblyInfo.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.csproj.CoreCompileInputs.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\refint\DataBaseTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\DataBaseTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\DataBaseTier\obj\Debug\net6.0\ref\DataBaseTier.dll

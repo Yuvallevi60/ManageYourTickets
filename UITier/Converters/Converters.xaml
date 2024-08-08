@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:converters="clr-namespace:UITier.Converters">
+
+    <!--A dictionary to gather all the Converters that are used in the Views-->
+    <converters:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    <converters:InverseBooleanToVisibilityConverter x:Key="InverseBooleanToVisibilityConverter" />
+    <converters:ObjectToBooleanConverter x:Key="ObjectToBooleanConverter" />
+    <converters:TimeSpanWithoutHoursConverter x:Key="TimeSpanWithoutHoursConverter" />
+    <converters:TimeSpanWithoutSecondsConverter x:Key="TimeSpanWithoutSecondsConverter" />
+    
+</ResourceDictionary>

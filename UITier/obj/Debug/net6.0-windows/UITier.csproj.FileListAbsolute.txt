@@ -1,0 +1,230 @@
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\UITier.exe
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\UITier.deps.json
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\UITier.runtimeconfig.json
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\UITier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\UITier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\DataBaseTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\LogicalTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\LogicalTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\bin\Debug\net6.0-windows\DataBaseTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.csproj.AssemblyReference.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\MVVM\Styles.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\ErrorPageView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\EventAddView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\EventEditView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\EventListView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\GetIdMessageBoxView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HallAddView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HallEditView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HallListView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HomePageView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\MainPanelView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\ObjectsListHeaderView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OccurrenceAddView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OccurrenceEditView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OccurrenceListView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OrderAddView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OrderEditView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OrderListView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\PrintedObjectListView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\TopPanelView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserAddView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserEditView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserListView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier_MarkupCompile.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier_MarkupCompile.lref
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\App.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\MVVM\Converters\Converters.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\ErrorPageView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\EventAddView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\EventEditView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\EventListView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\GetIdMessageBoxView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HallAddView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HallEditView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HallListView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\HomePageView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\MainPanelView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\ObjectsListHeaderView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OccurrenceAddView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OccurrenceEditView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OccurrenceListView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OrderAddView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OrderEditView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\OrderListView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\PrintedObjectListView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\TopPanelView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserAddView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserEditView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserListView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.g.resources
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.AssemblyInfoInputs.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.AssemblyInfo.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.csproj.CopyComplete
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\refint\UITier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\UITier.genruntimeconfig.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\ref\UITier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\RevenuesReportView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\RevenuesReportView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\SetEventDemandView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\SetEventDemandView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\ApproveOccurrencesView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\ApproveOccurrencesView.baml
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserDetailsView.g.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\UITier\obj\Debug\net6.0-windows\Views\UserDetailsView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\UITier.exe
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\UITier.deps.json
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\UITier.runtimeconfig.json
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\UITier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\UITier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\DnsClient.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\Snappier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\DataBaseTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\LogicalTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\LogicalTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\bin\Debug\net6.0-windows\DataBaseTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.csproj.AssemblyReference.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Styles.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\ApproveOccurrencesView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\ErrorPageView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\EventAddView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\EventEditView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\EventListView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\GetIdMessageBoxView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HallAddView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HallEditView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HallListView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HomePageView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\MainPanelView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\NavigationMenu.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\ObjectsListHeaderView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OccurrenceAddView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OccurrenceEditView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OccurrenceListView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OrderAddView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OrderEditView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OrderListView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\PrintedObjectListView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\RevenuesReportView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\SetEventDemandView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\TopPanelView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserAddView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserDetailsView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserEditView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserListView.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\App.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier_MarkupCompile.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier_MarkupCompile.lref
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\App.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Converters\Converters.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\MainWindow.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\ApproveOccurrencesView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\ErrorPageView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\EventAddView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\EventEditView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\EventListView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\GetIdMessageBoxView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HallAddView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HallEditView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HallListView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\HomePageView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\MainPanelView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\NavigationMenu.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\ObjectsListHeaderView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OccurrenceAddView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OccurrenceEditView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OccurrenceListView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OrderAddView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OrderEditView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\OrderListView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\PrintedObjectListView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\RevenuesReportView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\SetEventDemandView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\TopPanelView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserAddView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserDetailsView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserEditView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\Views\UserListView.baml
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.g.resources
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.GeneratedMSBuildEditorConfig.editorconfig
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.AssemblyInfoInputs.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.AssemblyInfo.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.csproj.CoreCompileInputs.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.csproj.CopyComplete
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\refint\UITier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\UITier.genruntimeconfig.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\UITier\obj\Debug\net6.0-windows\ref\UITier.dll

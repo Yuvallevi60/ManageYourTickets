@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\ApproveOccurrencesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\NavigationMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RevenuesReportView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ErrorPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OccurrenceEditView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EventAddView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EventEditView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\EventListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GetIdMessageBoxView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HallAddView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HallEditView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HallListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HomePageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ObjectsListHeaderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OccurrenceListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderAddView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderEditView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PrintedObjectListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SetEventDemandView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TopPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserDetailsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserEditView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserAddView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UserListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Converters\Converters.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ApproveOccurrencesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NavigationMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RevenuesReportView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ErrorPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OccurrenceEditView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EventAddView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EventEditView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\EventListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GetIdMessageBoxView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HallAddView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HallEditView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HallListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HomePageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ObjectsListHeaderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OccurrenceListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderAddView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderEditView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PrintedObjectListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SetEventDemandView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TopPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserDetailsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserEditView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserAddView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UserListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

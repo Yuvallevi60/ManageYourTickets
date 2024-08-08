@@ -1,0 +1,30 @@
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\bin\Debug\net6.0\LogicalTier.deps.json
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\bin\Debug\net6.0\LogicalTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\bin\Debug\net6.0\LogicalTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\bin\Debug\net6.0\DataBaseTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\bin\Debug\net6.0\DataBaseTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.csproj.AssemblyReference.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.AssemblyInfoInputs.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.AssemblyInfo.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.csproj.CoreCompileInputs.cache
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.csproj.CopyComplete
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\refint\LogicalTier.dll
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\LogicalTier.pdb
+C:\Users\Yuval\Documents\Visual Studio 2022\OrderYourTicket\LogicalTier\obj\Debug\net6.0\ref\LogicalTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\bin\Debug\net6.0\LogicalTier.deps.json
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\bin\Debug\net6.0\LogicalTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\bin\Debug\net6.0\LogicalTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\bin\Debug\net6.0\DataBaseTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\bin\Debug\net6.0\DataBaseTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.csproj.AssemblyReference.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.GeneratedMSBuildEditorConfig.editorconfig
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.AssemblyInfoInputs.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.AssemblyInfo.cs
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.csproj.CoreCompileInputs.cache
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.csproj.CopyComplete
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\refint\LogicalTier.dll
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\LogicalTier.pdb
+D:\מדעי המחשב\קורסי עבר\סדנה\סדנה בתכנות - פרויקט של יובל לוי\ManageYourTickets\LogicalTier\obj\Debug\net6.0\ref\LogicalTier.dll

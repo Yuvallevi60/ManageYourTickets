@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="UITier.Views.RevenuesReportView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UITier.Views"
+             mc:Ignorable="d" 
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    
+    <Grid>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="270" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Margin="10" Grid.Column="0">
+
+            <TextBlock Text="Revenues Report" Style="{StaticResource FormHeader}"/>
+
+            <Grid Margin="5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Events:"  />
+                <xctk:CheckComboBox Grid.Column="1" ItemsSource="{Binding EventsList}" SelectedItemsOverride="{Binding SelectedEvents, Mode=TwoWay}" >
+                    <xctk:CheckComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="#" />
+                                <TextBlock Text="{Binding Id}"/>
+                                <TextBlock Text=" - " />
+                                <TextBlock Text="{Binding Name}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </xctk:CheckComboBox.ItemTemplate>
+                </xctk:CheckComboBox>
+            </Grid>
+
+
+            <Grid Margin="5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Halls:"  />
+                <xctk:CheckComboBox Grid.Column="1" ItemsSource="{Binding HallsList}" Text="" SelectedItemsOverride="{Binding SelectedHalls}" >
+                    <xctk:CheckComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="#" />
+                                <TextBlock Text="{Binding Id}"/>
+                                <TextBlock Text=" - " />
+                                <TextBlock Text="{Binding Name}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </xctk:CheckComboBox.ItemTemplate>
+                </xctk:CheckComboBox>
+            </Grid>
+
+
+
+            <Grid Margin="5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Start:"  />
+                <DatePicker Grid.Column="1" Language="en-US" DisplayDateEnd="{x:Static sys:DateTime.Now}" SelectedDate="{Binding SelectedStartDate}" />
+            </Grid>
+
+
+
+            <Grid Margin="5" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="End:"  />
+                <DatePicker Grid.Column="1" Language="en-US" DisplayDateEnd="{x:Static sys:DateTime.Now}" SelectedDate="{Binding SelectedEndDate}" />
+            </Grid>
+
+            <GroupBox Margin="5" Header="Optional Categories">
+                <StackPanel>
+                    <CheckBox Content="Events" Margin="5" IsChecked="{Binding ShowByEvents}" />
+                    <CheckBox Content="Halls" Margin="5" IsChecked="{Binding ShowByHalls}"/>
+                    <CheckBox Content="Dates" Margin="5" IsChecked="{Binding ShowByDates}" />
+                </StackPanel>
+            </GroupBox>
+
+            <StackPanel Margin="0,10" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Produce" Command="{Binding ProduceCommand}" />
+                <Button Margin="10,0,0,0" Content="Clear" Command="{Binding ClearCommand}"/>
+            </StackPanel>
+
+            <TextBlock Margin="10" Text="{Binding ErrorMessage}" Style="{StaticResource FormErrorMessage}"/>
+        </StackPanel>
+
+        <TextBox Grid.Column="1" Margin="5" Padding="5" IsEnabled="False" Text="{Binding RevenuesReport}" />
+    </Grid>
+</UserControl>

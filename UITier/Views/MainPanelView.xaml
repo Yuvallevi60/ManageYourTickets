@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="UITier.Views.MainPanelView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UITier.Views"
+             xmlns:viewmodels="clr-namespace:UITier.ViewModels"
+             mc:Ignorable="d" >
+
+
+    <Border Style="{StaticResource WindowsBorder}">
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <ContentControl Content="{Binding CurrentPageVM}">
+                <ContentControl.Resources>
+                    <DataTemplate DataType="{x:Type viewmodels:HomePageViewModel}">
+                        <local:HomePageView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:UserDetailsViewModel}">
+                        <local:UserDetailsView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:RevenuesReportViewModel}">
+                        <local:RevenuesReportView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:UserAddViewModel}">
+                        <local:UserAddView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:UserListViewModel}">
+                        <local:UserListView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:UserEditViewModel}">
+                        <local:UserEditView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:HallAddViewModel}">
+                        <local:HallAddView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:HallListViewModel}">
+                        <local:HallListView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:HallEditViewModel}">
+                        <local:HallEditView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:EventAddViewModel}">
+                        <local:EventAddView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:EventListViewModel}">
+                        <local:EventListView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:EventEditViewModel}">
+                        <local:EventEditView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:OccurrenceAddViewModel}">
+                        <local:OccurrenceAddView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:OccurrenceListViewModel}">
+                        <local:OccurrenceListView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:OccurrenceEditViewModel}">
+                        <local:OccurrenceEditView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:OrderAddViewModel}">
+                        <local:OrderAddView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:OrderListViewModel}">
+                        <local:OrderListView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:OrderEditViewModel}">
+                        <local:OrderEditView/>
+                    </DataTemplate>
+                    <DataTemplate DataType="{x:Type viewmodels:ErrorPageViewModel}">
+                        <local:ErrorPageView/>
+                    </DataTemplate>
+                </ContentControl.Resources>
+            </ContentControl>
+        </ScrollViewer>
+    </Border>
+
+</UserControl>

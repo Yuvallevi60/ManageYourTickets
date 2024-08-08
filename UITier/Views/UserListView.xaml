@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="UITier.Views.UserListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UITier.Views" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             mc:Ignorable="d" 
+             x:Name="usersListView">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <local:ObjectsListHeaderView Grid.Row="0" />
+
+        <DataGrid Grid.Row="1" Style="{StaticResource ObjectListDataGrid}">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}" />
+                <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}" />
+                <DataGridTextColumn Header="City" Binding="{Binding City}" />
+                <DataGridTemplateColumn Header="Street" SortMemberPath="StreetName">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="5,5,5,0" >
+                                <TextBlock Text="{Binding StreetName}" />
+                                <TextBlock Text=" " />
+                                <TextBlock Text="{Binding StreetNumber}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Phone" Binding="{Binding PhoneNumber}" />
+                <DataGridTextColumn Header="Password" Binding="{Binding Password}" />
+                <DataGridTemplateColumn Header="Permissions">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Expander>
+                                <ItemsControl ItemsSource="{Binding Permissions}">
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <CheckBox Content="{Binding Key}" IsChecked="{Binding Value , Mode=OneWay}"  IsEnabled="False" />
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+                            </Expander>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn />
+                <DataGridCheckBoxColumn  Header="Deleted" Binding="{Binding IsDeleted}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

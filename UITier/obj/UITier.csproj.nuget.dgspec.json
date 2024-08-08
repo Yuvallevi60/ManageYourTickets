@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\UITier\\UITier.csproj": {}
+  },
+  "projects": {
+    "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\DataBaseTier\\DataBaseTier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\DataBaseTier\\DataBaseTier.csproj",
+        "projectName": "DataBaseTier",
+        "projectPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\DataBaseTier\\DataBaseTier.csproj",
+        "packagesPath": "C:\\Users\\Yuval\\.nuget\\packages\\",
+        "outputPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\DataBaseTier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\LogicalTier\\LogicalTier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\LogicalTier\\LogicalTier.csproj",
+        "projectName": "LogicalTier",
+        "projectPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\LogicalTier\\LogicalTier.csproj",
+        "packagesPath": "C:\\Users\\Yuval\\.nuget\\packages\\",
+        "outputPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\LogicalTier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\DataBaseTier\\DataBaseTier.csproj": {
+                "projectPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\DataBaseTier\\DataBaseTier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\UITier\\UITier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\UITier\\UITier.csproj",
+        "projectName": "UITier",
+        "projectPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\UITier\\UITier.csproj",
+        "packagesPath": "C:\\Users\\Yuval\\.nuget\\packages\\",
+        "outputPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\UITier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yuval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\LogicalTier\\LogicalTier.csproj": {
+                "projectPath": "D:\\מדעי המחשב\\קורסי עבר\\סדנה\\סדנה בתכנות - פרויקט של יובל לוי\\ManageYourTickets\\LogicalTier\\LogicalTier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Extended.Wpf.Toolkit": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

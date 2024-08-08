@@ -1,0 +1,20 @@
+﻿UITier
+
+
+winexe
+C#
+.cs
+C:\Users\Yuval\Documents\Visual Studio 2022\MangeYourTicket\UITier\obj\Release\net6.0-windows\
+UITier
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Users\Yuval\Documents\Visual Studio 2022\MangeYourTicket\UITier\App.xaml
+29-916185397
+
+68-1123118375
+213223780893
+MainWindow.xaml;MVVM\Converters\Converters.xaml;MVVM\Styles.xaml;Views\ApproveOccurrencesView.xaml;Views\ErrorPageView.xaml;Views\EventAddView.xaml;Views\EventEditView.xaml;Views\EventListView.xaml;Views\GetIdMessageBoxView.xaml;Views\HallAddView.xaml;Views\HallEditView.xaml;Views\HallListView.xaml;Views\HomePageView.xaml;Views\MainPanelView.xaml;Views\ObjectsListHeaderView.xaml;Views\OccurrenceAddView.xaml;Views\OccurrenceEditView.xaml;Views\OccurrenceListView.xaml;Views\OrderAddView.xaml;Views\OrderEditView.xaml;Views\OrderListView.xaml;Views\PrintedObjectListView.xaml;Views\RevenuesReportView.xaml;Views\SetEventDemandView.xaml;Views\TopPanelView.xaml;Views\UserAddView.xaml;Views\UserDetailsView.xaml;Views\UserEditView.xaml;Views\UserListView.xaml;
+
+True
+

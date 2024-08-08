@@ -1,0 +1,100 @@
+﻿<UserControl x:Class="UITier.Views.EventAddView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:local="clr-namespace:UITier.Views"
+             mc:Ignorable="d" >
+    
+    
+    <Grid HorizontalAlignment="Left" Margin="10">
+        <Grid.RowDefinitions >
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="230" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Add Event" Style="{StaticResource FormHeader}"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.RowSpan="4" Text="{Binding ErrorMessage}" Style="{StaticResource FormErrorMessage}"/>
+
+        <GroupBox Grid.Row="1" Margin="0,10" Header="General Data">
+            <StackPanel>
+                <Grid  Margin="5,5,0,0" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="ID:"  />
+                    <TextBox Grid.Column="1" Margin="5,0" Text="{Binding IdNumber, UpdateSourceTrigger=PropertyChanged}"/>
+                    <Button Grid.Column="2" Content="Rand" Command="{Binding RandIdCommand}"/>
+                </Grid>
+
+                <Grid Margin="5,5,0,0" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Name:"  />
+                    <TextBox Grid.Column="1"  Text="{Binding EventName, UpdateSourceTrigger=PropertyChanged}"/>
+                </Grid>
+
+                <Grid Margin="5,5,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Duration:"  />
+                    <xctk:TimePicker Grid.Column="1" Value="{Binding EventDuration}" ShowButtonSpinner="False" TimeInterval="00:30"/>
+                </Grid>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="2" Margin="0,10" Header="Ticket Price">
+            <StackPanel>
+                <Grid Margin="5,5,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Base:"  />
+                    <TextBox Grid.Column="1" Text="{Binding TicketPrice, UpdateSourceTrigger=PropertyChanged}"/>
+                    <Label Grid.Column="1" Content="₪" HorizontalAlignment="Right" />
+                </Grid>
+
+                <Grid Margin="5,5,0,0" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Margin="0,0,5,0" Text="Method:"  />
+                    <ComboBox Grid.Column="1"  ItemsSource="{Binding PricingMethodList}" SelectedItem="{Binding SelectedMethod}"/>
+                </Grid>
+            </StackPanel>
+        </GroupBox>
+
+
+        <GroupBox Grid.Row="3" Margin="0,10" Header="Merchandise">
+            <StackPanel>
+                <CheckBox Content="Brochure" Margin="5" IsChecked="{Binding HasBrochure}" />
+                <CheckBox Content="Poster" Margin="5" IsChecked="{Binding HasPoster}"/>
+                <CheckBox Content="Shirt" Margin="5" IsChecked="{Binding HasShirt}" />
+            </StackPanel>
+        </GroupBox>
+
+        
+        <StackPanel Grid.Row="4" Margin="0,25,0,10" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="Add" Command="{Binding AddCommand}" />
+            <Button Margin="10,0,0,0" Content="Clear" Command="{Binding ClearCommand}"/>
+        </StackPanel>
+
+    </Grid>
+</UserControl>
